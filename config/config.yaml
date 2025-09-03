@@ -1,0 +1,7 @@
+{
+  "wallet": {"balance": 1000},
+  "strategy": {"rsi_period": 14, "overbought": 70, "oversold": 30},
+  "token": {"symbol": "TEST", "liquidity": 100000},
+  "trade": {"amount": 100, "price_history": [50,49,48,47,46,45,44,43,42,41,40,39,38,37,36]},
+  "rugpull": {"min_liquidity": 50000}
+}
